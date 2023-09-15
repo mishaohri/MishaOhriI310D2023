@@ -9,5 +9,5 @@ print(f"Volume of sphere with radius {radius} is {volume1}")
 
 radius = 40 
 volume2 = calculate_volume_of_sphere(radius)
-print(f"Volume of sphere with radius {radius} is {volume}")
+print(f"Volume of sphere with radius {radius} is {volume2}")
 
